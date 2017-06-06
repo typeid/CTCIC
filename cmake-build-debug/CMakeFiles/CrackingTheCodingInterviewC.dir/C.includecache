@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Claudio/CLionProjects/CrackingTheCodingInterviewC/Ex4.c
+C:/Users/Claudio/CLionProjects/CrackingTheCodingInterviewC/Ex5.c
 stdio.h
+-
+stdlib.h
 -
 string.h
 -

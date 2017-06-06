@@ -122,32 +122,32 @@ CrackingTheCodingInterviewC/fast:
 	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/build
 .PHONY : CrackingTheCodingInterviewC/fast
 
-Ex4.obj: Ex4.c.obj
+Ex5.obj: Ex5.c.obj
 
-.PHONY : Ex4.obj
+.PHONY : Ex5.obj
 
 # target to build an object file
-Ex4.c.obj:
-	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/Ex4.c.obj
-.PHONY : Ex4.c.obj
+Ex5.c.obj:
+	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/Ex5.c.obj
+.PHONY : Ex5.c.obj
 
-Ex4.i: Ex4.c.i
+Ex5.i: Ex5.c.i
 
-.PHONY : Ex4.i
+.PHONY : Ex5.i
 
 # target to preprocess a source file
-Ex4.c.i:
-	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/Ex4.c.i
-.PHONY : Ex4.c.i
+Ex5.c.i:
+	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/Ex5.c.i
+.PHONY : Ex5.c.i
 
-Ex4.s: Ex4.c.s
+Ex5.s: Ex5.c.s
 
-.PHONY : Ex4.s
+.PHONY : Ex5.s
 
 # target to generate assembly for a file
-Ex4.c.s:
-	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/Ex4.c.s
-.PHONY : Ex4.c.s
+Ex5.c.s:
+	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/Ex5.c.s
+.PHONY : Ex5.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... edit_cache
 	@echo ... CrackingTheCodingInterviewC
 	@echo ... rebuild_cache
-	@echo ... Ex4.obj
-	@echo ... Ex4.i
-	@echo ... Ex4.s
+	@echo ... Ex5.obj
+	@echo ... Ex5.i
+	@echo ... Ex5.s
 .PHONY : help
 
 
