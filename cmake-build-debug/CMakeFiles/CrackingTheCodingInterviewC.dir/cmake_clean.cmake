@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj"
+  "CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj"
   "CrackingTheCodingInterviewC.pdb"
   "CrackingTheCodingInterviewC.exe"
   "CrackingTheCodingInterviewC.exe.manifest"

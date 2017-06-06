@@ -4,5 +4,5 @@ project(CrackingTheCodingInterviewC)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_C_STANDARD 11)
 
-set(SOURCE_FILES Ex6.c)
+set(SOURCE_FILES Ex7.c)
 add_executable(CrackingTheCodingInterviewC ${SOURCE_FILES})

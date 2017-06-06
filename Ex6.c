@@ -9,7 +9,7 @@ int index_at(int row, int col, int n)
 }
 void rotate90(int* A, int n)
 {
-    for (int upper_row = 0; upper_row != n / 2; ++upper_row) 
+    for (int upper_row = 0; upper_row != n / 2; ++upper_row)
     {
         int lower_row = n - 1 - upper_row;
         for(int col = 0; col < n; ++col) { //traverse columns

@@ -56,38 +56,38 @@ include CMakeFiles/CrackingTheCodingInterviewC.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CrackingTheCodingInterviewC.dir/flags.make
 
-CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj: CMakeFiles/CrackingTheCodingInterviewC.dir/flags.make
-CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj: ../Ex6.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Claudio\CLionProjects\CrackingTheCodingInterviewC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CrackingTheCodingInterviewC.dir\Ex6.c.obj   -c C:\Users\Claudio\CLionProjects\CrackingTheCodingInterviewC\Ex6.c
+CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj: CMakeFiles/CrackingTheCodingInterviewC.dir/flags.make
+CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj: ../Ex7.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Claudio\CLionProjects\CrackingTheCodingInterviewC\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\CrackingTheCodingInterviewC.dir\Ex7.c.obj   -c C:\Users\Claudio\CLionProjects\CrackingTheCodingInterviewC\Ex7.c
 
-CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Claudio\CLionProjects\CrackingTheCodingInterviewC\Ex6.c > CMakeFiles\CrackingTheCodingInterviewC.dir\Ex6.c.i
+CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Claudio\CLionProjects\CrackingTheCodingInterviewC\Ex7.c > CMakeFiles\CrackingTheCodingInterviewC.dir\Ex7.c.i
 
-CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Claudio\CLionProjects\CrackingTheCodingInterviewC\Ex6.c -o CMakeFiles\CrackingTheCodingInterviewC.dir\Ex6.c.s
+CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe  $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Claudio\CLionProjects\CrackingTheCodingInterviewC\Ex7.c -o CMakeFiles\CrackingTheCodingInterviewC.dir\Ex7.c.s
 
-CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj.requires:
+CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj.requires:
 
-.PHONY : CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj.requires
+.PHONY : CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj.requires
 
-CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj.provides: CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj.requires
-	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj.provides.build
-.PHONY : CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj.provides
+CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj.provides: CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj.requires
+	$(MAKE) -f CMakeFiles\CrackingTheCodingInterviewC.dir\build.make CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj.provides.build
+.PHONY : CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj.provides
 
-CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj.provides.build: CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj
+CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj.provides.build: CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj
 
 
 # Object files for target CrackingTheCodingInterviewC
 CrackingTheCodingInterviewC_OBJECTS = \
-"CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj"
+"CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj"
 
 # External object files for target CrackingTheCodingInterviewC
 CrackingTheCodingInterviewC_EXTERNAL_OBJECTS =
 
-CrackingTheCodingInterviewC.exe: CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj
+CrackingTheCodingInterviewC.exe: CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj
 CrackingTheCodingInterviewC.exe: CMakeFiles/CrackingTheCodingInterviewC.dir/build.make
 CrackingTheCodingInterviewC.exe: CMakeFiles/CrackingTheCodingInterviewC.dir/linklibs.rsp
 CrackingTheCodingInterviewC.exe: CMakeFiles/CrackingTheCodingInterviewC.dir/objects1.rsp
@@ -100,7 +100,7 @@ CMakeFiles/CrackingTheCodingInterviewC.dir/build: CrackingTheCodingInterviewC.ex
 
 .PHONY : CMakeFiles/CrackingTheCodingInterviewC.dir/build
 
-CMakeFiles/CrackingTheCodingInterviewC.dir/requires: CMakeFiles/CrackingTheCodingInterviewC.dir/Ex6.c.obj.requires
+CMakeFiles/CrackingTheCodingInterviewC.dir/requires: CMakeFiles/CrackingTheCodingInterviewC.dir/Ex7.c.obj.requires
 
 .PHONY : CMakeFiles/CrackingTheCodingInterviewC.dir/requires
 
